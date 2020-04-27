@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1463994067 source:c:\users\plaisio\documents\Μαθηματα\Προγραμματισμος\Εργασιες\Εργασία 1\main.cpp
+	<iostream>
+	<list>
+	<typeinfo>
+	<random>
+	"time.h"
+	<string>
+
